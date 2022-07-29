@@ -1,0 +1,26 @@
+#Syntax coloring map for R050
+#############################
+#############################
+#Datatypes (KEYWORD1)
+############################
+R050  KEYWORD1
+############################
+#Methods and functions (KEYWORD2)
+############################
+steamGenPID KEYWORD2
+superheatTest KEYWORD2
+connect_IO_Expanders KEYWORD2
+readPTs KEYWORD2
+readTCs KEYWORD2
+readOut KEYWORD2
+integrityCheck KEYWORD2
+readOCI KEYWORD2
+readBtn KEYWORD2
+error_Checker KEYWORD2
+steamPressureLow KEYWORD2
+monitor_SR_Tube_Temps KEYWORD2
+blinkGRN KEYWORD2
+blinkAMB KEYWORD2
+DB_RX KEYWORD2
+DB_TX KEYWORD2
+DB_INIT KEYWORD2
